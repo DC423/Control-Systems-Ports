@@ -127,3 +127,9 @@ TCP/62938	|SNC GENe|
 |TCP/63088|	SNC GENe|
 |TCP/63094	|SNC GENe|
 |TCP/65443|	SNC GENe|
+
+
+
+
+#Clone from 
+https://web.archive.org/web/20111203052654/http://www.digitalbond.com/tools/the-rack/control-system-port-list
