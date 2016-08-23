@@ -1,6 +1,7 @@
-# Control-Systems-Ports
-Standard Protocol Ports
-The standard protocol ports table lists the ports for protocols that are considered industry standards and are used be multiple vendors.
+# Control Systems Ports
+##Standard Protocol Ports
+
+##The standard protocol ports table lists the ports for protocols that are considered industry standards and are used be multiple vendors.
 
 |Protocol|	Ports    |
 |--------|:------:   |
@@ -18,8 +19,9 @@ The standard protocol ports table lists the ports for protocols that are conside
 |PROFINET	| TCP/34962 to 34964, UDP/34962 to 34964|
 |ROC PLus |	TCP/UDP 4000|
 
-Vendor Specific Ports
-The vendor specific ports tables lists ports that are used by only one or a small number of vendors. These protocols are usually unpublished and proprietary.
+
+##Vendor Specific Ports
+###The vendor specific ports tables lists ports that are used by only one or a small number of vendors. These protocols are usually unpublished and proprietary.
 
 |Vendor	|Product or Protocol	|Ports|
 |-------|:---------------------:|:----:|
@@ -38,8 +40,8 @@ ABB	|Ranger 2003|	TCP/10307, TCP/10311, TCP/10364 to 10365, TCP/10407, TCP/10409
 
 
 
-All Control System Ports Sorted By Port Number
-The control system ports table combines the previous two tables and sorts the entries by port number.
+##All Control System Ports Sorted By Port Number
+###The control system ports table combines the previous two tables and sorts the entries by port number.
 
 |Protocol	|Ports|
 |---------|:---:|
